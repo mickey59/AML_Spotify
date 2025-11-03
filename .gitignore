@@ -1,4 +1,4 @@
-AML_Spotify/data/Spotify_Dataset_V3.csv
-data/Spotify_Dataset_V3.csv
-data/spotifyNoRowDuplicates.csv
-.ds
+data/temporal/Spotify_Dataset_V3.csv
+data/temporal/spotifyNoRowDuplicates.csv.gz
+data/temporal/spotifyNoRowDuplicates.csv
+data/temporal/Spotify_Dataset_V3.csv
