@@ -2,3 +2,4 @@ data/temporal/Spotify_Dataset_V3.csv
 data/temporal/spotifyNoRowDuplicates.csv.gz
 data/temporal/spotifyNoRowDuplicates.csv
 data/temporal/Spotify_Dataset_V3.csv
+venvtf
